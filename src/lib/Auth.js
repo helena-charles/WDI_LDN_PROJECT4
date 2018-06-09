@@ -38,8 +38,4 @@ class Auth {
 }
 
 
-const a = new Auth()
-
-a.getPayload()
-
 export default Auth;
